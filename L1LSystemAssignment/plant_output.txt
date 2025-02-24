@@ -1,0 +1,11 @@
+
+Drawing L-System: n =  0
+n =  0  :  X
+Drawing L-System: n =  1
+n =  1  :  F[-X]FF[+X]FXF[+X]
+Drawing L-System: n =  2
+n =  2  :  FF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]
+Drawing L-System: n =  3
+n =  3  :  FFFF[-FF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]]FFFFFFFF[+FF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]]FFFFFF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]FFFF[+FF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]]
+Drawing L-System: n =  4
+n =  4  :  FFFFFFFF[-FFFF[-FF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]]FFFFFFFF[+FF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]]FFFFFF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]FFFF[+FF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]]]FFFFFFFFFFFFFFFF[+FFFF[-FF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]]FFFFFFFF[+FF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]]FFFFFF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]FFFF[+FF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]]]FFFFFFFFFFFF[-FF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]]FFFFFFFF[+FF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]]FFFFFF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]FFFF[+FF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]]FFFFFFFF[+FFFF[-FF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]]FFFFFFFF[+FF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]]FFFFFF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]FFFF[+FF[-F[-X]FF[+X]FXF[+X]]FFFF[+F[-X]FF[+X]FXF[+X]]FFF[-X]FF[+X]FXF[+X]FF[+F[-X]FF[+X]FXF[+X]]]]
